@@ -1,2 +1,3 @@
 # Ed_RubyOnRails
-Educational Series- Ruby on Rails 
+
+Educational Series- Ruby on Rails
